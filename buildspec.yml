@@ -1,7 +1,7 @@
 version: 0.1
 environment_variables:
     plaintext:
-        S3_BUCKET: "example"
+        S3_BUCKET: "somoslisten.me"
         BUILD_ENV: "prod"
 phases:
     install:
