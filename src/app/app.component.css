@@ -122,10 +122,12 @@ svg {
   height: 65%;
 }
 
-.svg-done {
+
+
+.svgDone {
   background-color: #31D166;
 }
 
-.svg-done .check1 {
+.svgDone .check1 {
   fill: white;
 }
